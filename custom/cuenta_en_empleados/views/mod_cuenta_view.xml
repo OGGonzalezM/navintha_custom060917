@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opererp>
+	<data>
+		<record id="mod_cuenta_view" model="ir.ui.model">
+			<field name="name">hr.employee.modcuentabancaria</field>
+			<field name="model">hr.employee</field>
+			<field name="inherit_id" ref="hr.view_employee_form"></field>
+			<field name=""></field>
+		</record>
+	</data>
+</opererp>
